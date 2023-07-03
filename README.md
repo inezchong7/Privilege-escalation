@@ -11,8 +11,11 @@
 <h4>Interactivity:</h4>
 <ul>
   <li>Interactive: allows interaction with programs after executing them (eg. Powershell, Bash, sh)</li>
+  <img src="https://github.com/inezchong7/Privilege-escalation/assets/106855786/68213e8b-2a82-4281-8225-26872333afdd">
   <li>Non-interactive: limited to using programs which do not require user interaction in order to run properly</li>
+  <img src="https://github.com/inezchong7/Privilege-escalation/assets/106855786/122e0c0e-91d0-4364-95d8-fc2430db7a6f">
 </ul>
+
 
 <h4>Tools:</h4>
 <ul>
